@@ -1,1 +1,7 @@
-# employee-information
+# Employee Information
+
+## Technologies
+* ExpressJS
+* Mongoose
+* MongoDB
+* EJS
